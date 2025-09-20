@@ -1,0 +1,12 @@
+[
+{
+    "model": "produtos.produto",
+    "pk": 1,
+    "fields": {
+        "nome": "Perfume",
+        "descricao": "Natura Perfume",
+        "preco": "100.00",
+        "imagem": "imagens/contato2.jpeg"
+    }
+}
+]

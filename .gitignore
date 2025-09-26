@@ -1,6 +1,7 @@
 # Arquivo .gitignore
 # Ambiente Virtual
 venv/
+cosmeticos-frontend/
 /venv/
 
 # Arquivos de Cache do Python

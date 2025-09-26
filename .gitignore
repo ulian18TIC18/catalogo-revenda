@@ -2,6 +2,7 @@
 # Ambiente Virtual
 venv/
 cosmeticos-frontend/
+imagens_produtos/
 /venv/
 
 # Arquivos de Cache do Python
